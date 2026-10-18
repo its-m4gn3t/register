@@ -1,6 +1,7 @@
 {
     "owner": {
-        "username": "its-m4gn3t"
+        "username": "its-m4gn3t",
+        "email": "its.me.magnet@proton.me"
     },
     "records": {
         "CNAME": "abhishek-dhakal.com.np"
